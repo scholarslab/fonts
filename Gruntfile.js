@@ -8,6 +8,7 @@ module.exports = function(grunt) {
         dest: 'build/fonts',
         destCss: 'build/css',
         options: {
+          font: 'scholarslab',
           stylesheet: 'scss',
           relativeFontPath: 'build/fonts'
         }

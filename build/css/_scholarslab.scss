@@ -2,17 +2,17 @@
 
 
 @font-face {
-	font-family:"icons";
-	src:url("build/fonts/icons.eot?28132952632a2b453cb1b55f280a1e6e");
-	src:url("build/fonts/icons.eot?#iefix") format("embedded-opentype"),
-		url("build/fonts/icons.woff?28132952632a2b453cb1b55f280a1e6e") format("woff"),
-		url("build/fonts/icons.ttf?28132952632a2b453cb1b55f280a1e6e") format("truetype");
+	font-family:"scholarslab";
+	src:url("build/fonts/scholarslab.eot?63901e3a70c8bb0064f91ebaa1c67eaf");
+	src:url("build/fonts/scholarslab.eot?#iefix") format("embedded-opentype"),
+		url("build/fonts/scholarslab.woff?63901e3a70c8bb0064f91ebaa1c67eaf") format("woff"),
+		url("build/fonts/scholarslab.ttf?63901e3a70c8bb0064f91ebaa1c67eaf") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
 
 .icon {
-	font-family:"icons";
+	font-family:"scholarslab";
 	display:inline-block;
 	vertical-align:middle;
 	line-height:1;
