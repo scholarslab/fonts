@@ -2,7 +2,7 @@
 
 Font icons for Scholars' Lab projects.
 
-See [style.css](style.css) for usage example.
+See [build/fonts/icons.html](build/fonts/icons.html) for usage example.
 
 ## Compass
 
