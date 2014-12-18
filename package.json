@@ -1,0 +1,14 @@
+{
+  "name": "slab-fonts",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scholarslab/fonts.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "0.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-webfont": "^0.5.0"
+  }
+}
